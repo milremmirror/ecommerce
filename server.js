@@ -14,7 +14,7 @@ app.use(fileUpload({
     useTempFiles: true
 }))
 
-//Conecta ao banco de dados
+//Conect to DB
 connectDB();
 
 
