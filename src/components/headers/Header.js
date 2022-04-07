@@ -1,5 +1,5 @@
-import React, {useState, useContext} from "react";
-import {DataProvider, GlobalState} from "../../GlobalState";
+import React, {useContext} from "react";
+import {GlobalState} from "../../GlobalState";
 import Menu from './icon/menu.svg'
 import Close from './icon/close.svg'
 import Cart from './icon/cart.svg'
